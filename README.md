@@ -5,7 +5,7 @@ This repository includes source code of our paper (deep learning model for class
 
 
 # Requirement
-The source code is written in Python (version 3.7 or later). 
+Our source code (run_effi.py) is written in Python (version 3.7 or later). 
 Scikit-learn, tensroflow, keras, and efficient packages are required for training and evaluating the model. 
 
 
@@ -13,6 +13,7 @@ Scikit-learn, tensroflow, keras, and efficient packages are required for trainin
 # Dataset 
 The public datasets used for the paper are (i) COVIDx dataset and (ii) COVID_BIMCV dataset.  
 The details of these public datasets are described in the paper. 
+These two public datasets are available from the following URLs.
 
 1. COVIDx dataset (version 5): 
 https://u.pcloud.link/publink/show?code=XZFnxnXZQkR4o66huaRvmnDzozsdgLsx7jP7 
