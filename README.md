@@ -11,8 +11,8 @@ Scikit-learn, tensroflow, keras, and efficient packages are required for trainin
 
 
 # Dataset 
-The public datasets used for the paper are (i) COVIDx dataset and (ii) COVID_BIMCV dataset.  
-The details of these public datasets are described in the paper. 
+The public datasets used for the paper are (i) COVIDx dataset and (ii) COVID_BIMCV dataset. The details of these public datasets are described in the paper. 
+
 These two public datasets are available from the following URLs.
 
 1. COVIDx dataset (version 5): 
